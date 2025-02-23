@@ -1,3 +1,2 @@
 # bookbot
-
-Takes a txt file and creates a report about the characters
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
